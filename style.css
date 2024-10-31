@@ -1,0 +1,179 @@
+
+ 
+ .overall-container  {
+   width: 410px;
+   height: 100%;
+   margin: 20px;
+ }
+
+ .omelette-image  {
+    width: 370px;
+    height: 160px;
+    border-radius: 10px;
+ }
+
+ .omelette-box  {
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 20px;
+ }
+
+ .omelette-defination  {
+    width: 370px;
+    font-size: x-small;
+    line-height: 15px;
+    margin-top: 10px;
+    opacity: 0.7;
+ }
+
+/* ======preparation==== */
+ .time-consumption  {
+    width: 370px;
+    height: 110px;
+    margin-top: 30px;
+    padding-left: 30px;
+    padding-top: 15px;
+    background-color: rgb(250, 243, 250);
+    border-radius: 10px;
+ }
+
+ .preparation-time-container  {
+    font-size: 15px;
+    color: purple;
+    font-weight: bold;
+    padding-left: -10px;
+ }
+
+ .time-cook-aggregation  {
+    line-height: 20px; 
+    opacity: 0.7;
+    padding-left: 10px;
+ }
+
+ span  {
+    font-weight: 1000;
+ }
+
+ .total-box,
+ .preparation-box,
+ .cooking-box  {
+     font-size: 13px; 
+ }
+
+ /* ======ingredients====== */
+.ingredients-overall  {
+    width: 840px;
+    margin-top: 30px;
+    opacity: 0.8;
+}
+
+ .ingredients-container  {
+    font-size: 25px;
+    color: rgb(119, 40, 40);
+    margin-bottom: 20px;
+    font-weight: bold;
+ }
+
+ .ingredients-box  {
+    font-size: 10px;
+    line-height: 20px;
+    margin-left: 10px;
+ }
+
+ .straight-line  {
+    width: 370px;
+    margin-left: 0px;
+    opacity: 0.4;
+ }
+
+ /* =========instruction */
+.instruction-container,
+.nutrition-container  {
+     color: rgb(119, 40, 40);
+     font-size: 25px;
+     margin-top: 20px;
+}
+
+ .beat-the-eggs-box  {
+    display: flex;
+    gap: 15px;
+    width: 400px;
+    font-size: 11px;
+    line-height: 15px;
+    opacity: 0.7;
+    margin-left: 10px;
+ }
+
+ .number-one,
+ .number-two,
+ .number-three,
+ .number-four,
+ .number-five,
+ .number-six  {
+    color: rgb(119, 40, 40);
+    font-weight: bold;
+ }
+
+ .heat-the-pan-box,
+ .cook-the-omelette-box,
+ .add-fillings-box,
+ .fold-and-serve-box,
+ .enjoy-box  {
+    display: flex;
+    gap: 15px;
+    width: 400px;
+    font-size: 11px;
+    line-height: 15px;
+    opacity: 0.7;
+    margin-left: 10px;
+    margin-top: 10px;
+ }
+
+ /* ======nutrition=== */
+ .nutrition-box  {
+    width: 400px;
+    font-size: 11px;
+    opacity: 0.7;
+    margin-top: 10px;
+ }
+
+ .calories-amount-container  {
+    display: flex;
+    gap: 150px;
+    margin-top: 20px;
+    opacity: 0.7;
+    font-size: 11px;
+ }
+
+ .amount-contained  {
+    color: rgb(119, 40, 40);
+    font-weight: bolder;
+ }
+
+ .cabs-container  {
+    display: flex;
+    gap: 165px;
+    margin-top: 20px;
+    opacity: 0.7;
+    font-size: 11px;
+ }
+ 
+ .protein-container  {
+    display: flex;
+    gap: 156px;
+    margin-top: 20px;
+    opacity: 0.7;
+    font-size: 11px;
+ }
+
+
+ .fat-container   {
+    display: flex;
+    gap: 175px;
+    margin-top: 20px;
+    opacity: 0.7;
+    font-size: 11px;
+ }
+
+  
+ 
